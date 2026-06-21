@@ -16,9 +16,9 @@ You can give it `the keyword file to create the wordlist` yourself or enter it m
                    [--prefixes [PREFIXES ...]] [--suffixes [SUFFIXES ...]]
                    [--separators [SEPARATORS ...]] [--limit LIMIT] [--quiet] [--interactive]
 
- > Advanced wordlist generator (English-only).
+Advanced wordlist generator (English-only).
 
-> options:
+ options:
   -h, --help            show this help message and exit
   -i, --input INPUT     Input file with base words (one per line). If omitted, interactive or
                         defaults are used.
@@ -46,8 +46,6 @@ You can give it `the keyword file to create the wordlist` yourself or enter it m
   --limit LIMIT         Stop after writing LIMIT entries (0 = no limit)
   --quiet               Minimal console output
   --interactive         Force interactive prompts to enter base words (overrides --input)
-
-`
 
 
 ![Shot 0001](https://github.com/user-attachments/assets/428e3503-a471-4c5d-8265-1b384aafe4c7)
